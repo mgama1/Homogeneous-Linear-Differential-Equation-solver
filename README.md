@@ -11,6 +11,7 @@ obtained, which can be summarized for the second order D.E. as follows:
 
 
 ![alt text](https://i.imgur.com/Mqmm3la.jpg)
+![alt text](https://i.imgur.com/SQ8eCag.jpg)
 
 
 (3) If r1=r2 (repeated roots),the general solution is given as;
