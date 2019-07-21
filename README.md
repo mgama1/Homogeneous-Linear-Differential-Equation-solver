@@ -20,3 +20,9 @@ obtained, which can be summarized for the second order D.E. as follows:
 ![alt text](https://i.imgur.com/rbiG5pe.jpg)
 
 
+Example:
+
+![alt text](https://i.imgur.com/sKeLHOs.png)
+
+
+
