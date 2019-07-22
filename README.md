@@ -24,4 +24,5 @@ Example:
 
 ![alt text](https://i.imgur.com/sKeLHOs.png)
 
-<iframe src="https://drive.google.com/file/d/1xhm5fNeEXDxSssbflH_Z-EWsfsCRp-cU/preview" width="640" height="480"></iframe>
+
+![alt text](https://raw.githubusercontent.com/mg31415/Homogeneous-Linear-Differential-Equation-solver/master/Screenshot%20from%202019-07-21%2010-56-00.png)
