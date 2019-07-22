@@ -24,6 +24,4 @@ Example:
 
 ![alt text](https://i.imgur.com/sKeLHOs.png)
 
-![alt text](https://drive.google.com/file/d/1xhm5fNeEXDxSssbflH_Z-EWsfsCRp-cU/edit)
-
-
+<iframe src="https://drive.google.com/file/d/1xhm5fNeEXDxSssbflH_Z-EWsfsCRp-cU/preview" width="640" height="480"></iframe>
